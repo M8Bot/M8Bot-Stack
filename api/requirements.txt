@@ -1,0 +1,16 @@
+alembic==1.6.5
+fastapi==0.66.0
+fastapi-sqlalchemy==0.2.1
+psycopg2==2.9.1
+pydantic==1.8.2
+python-dotenv==0.18.0
+sqlalchemy==1.4.20
+uvicorn==0.14.0
+
+
+# testing
+pytest==6.2.4
+pytest-cov==2.12.1
+
+# dev / testing
+requests==2.25.1
